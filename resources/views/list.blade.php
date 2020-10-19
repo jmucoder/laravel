@@ -7,7 +7,7 @@
 
 <div class="container">
 
-<h1> List of Data </h1> 
+<h1> faching the data from db </h1> 
 
 @if (session('successMsg'))
 
